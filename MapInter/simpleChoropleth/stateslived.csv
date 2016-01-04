@@ -1,0 +1,51 @@
+state,visited,StateCode
+Alabama,1,AL
+Alaska,2,AK
+Arizona,0,AS
+Arkansas,0,AZ
+California,0,AR
+Colorado,0,CA
+Connecticut,1,CO
+Delaware,2,CT
+Florida,0,DE
+Georgia,0,FL
+Hawaii,2,GA
+Idaho,1,HI
+Illinois,0,ID
+Indiana,0,IL
+Iowa,0,IN
+Kansas,0,IA
+Kentucky,0,KS
+Louisiana,0,KY
+Maine,1,LA
+Maryland,1,ME
+Massachusetts,0,MD
+Michigan,0,MA
+Minnesota,0,MI
+Mississippi,0,MN
+Missouri,0,MS
+Montana,1,MO
+Nebraska,0,MT
+Nevada,0,NE
+New Hampshire,1,NV
+New Jersey,0,NH
+New Mexico,2,NJ
+New York,0,NM
+North Carolina,0,NY
+North Dakota,1,NC
+Ohio,0,ND
+Oklahoma,0,OH
+Oregon,1,OK
+Pennsylvania,0,OR
+Rhode Island,1,PA
+South Carolina,0,RI
+South Dakota,1,SC
+Tennessee,0,SD
+Texas,0,TN
+Utah,1,TX
+Vermont,2,UT
+Virginia,1,VT
+Washington,0,VA
+West Virginia,1,WA
+Wisconsin,0,WV
+Wyoming,2,WI
